@@ -1,0 +1,69 @@
+nav.custom-bc{
+    padding-left: 3em;
+    padding-top:3px;
+
+}
+nav.custom-bc>ol{
+    background-color:white;
+}
+table td, 
+table th {
+    white-space: nowrap;
+    width: 1%;
+}
+.align-center
+{
+    text-align: center;
+}
+.menu_btn {
+    padding: 2px 5px;
+    background-color:cadetblue;
+    color: #000;
+    border-radius: 20px;
+    margin: 0px 20px;
+    font-size:1.5em;
+}
+.profile_preview{
+    border: 1px solid grey;width:120px;height:120px
+}
+.table tr.first td
+{
+    border-top:none;
+}
+.table tr.last td
+{
+    border-bottom:none;
+}
+.confirm-bg-color{
+background-color:#b1dfd9;
+}
+a.nav-font{
+font-size:2.5em;
+font-family:Fantasy, monospace, Tahoma, sans-serif;
+}
+.modal-head-color
+{
+    background-color:lightseagreen;
+}
+td>#btn-detail
+{
+    color:brown;
+    text-decoration: underline;
+    cursor: pointer;
+  /* cursor: -webkit-grab; cursor: grab; */
+}
+.card-header.myheader
+{
+    background-color:#aaa5a14a;
+}
+.total
+{
+    float:right;
+    font-size:1.5em;
+    font-family:monospace;
+}
+.require-notation
+{
+    color:red;
+    font-size:2em;
+}
